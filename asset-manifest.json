@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4368ddd6.chunk.css",
+    "main.js": "./static/js/main.d124fb57.chunk.js",
+    "main.js.map": "./static/js/main.d124fb57.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.82281d8a.js",
+    "runtime-main.js.map": "./static/js/runtime-main.82281d8a.js.map",
+    "static/js/2.881a088e.chunk.js": "./static/js/2.881a088e.chunk.js",
+    "static/js/2.881a088e.chunk.js.map": "./static/js/2.881a088e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.4368ddd6.chunk.css.map": "./static/css/main.4368ddd6.chunk.css.map",
+    "static/js/2.881a088e.chunk.js.LICENSE.txt": "./static/js/2.881a088e.chunk.js.LICENSE.txt",
+    "static/media/DETAILS.c8f243c6.png": "./static/media/DETAILS.c8f243c6.png",
+    "static/media/EPISODE1.9290468f.jpg": "./static/media/EPISODE1.9290468f.jpg",
+    "static/media/EPISODE2.473614e9.jpg": "./static/media/EPISODE2.473614e9.jpg",
+    "static/media/EPISODE3.8f74501d.jpg": "./static/media/EPISODE3.8f74501d.jpg",
+    "static/media/EPISODE4.144b63a1.jpg": "./static/media/EPISODE4.144b63a1.jpg",
+    "static/media/EPISODE5.b785ed81.jpg": "./static/media/EPISODE5.b785ed81.jpg",
+    "static/media/EPISODE6.15136b62.jpg": "./static/media/EPISODE6.15136b62.jpg",
+    "static/media/EPISODE7.48676fe6.jpg": "./static/media/EPISODE7.48676fe6.jpg",
+    "static/media/EPISODE8.9f3bb9a8.jpg": "./static/media/EPISODE8.9f3bb9a8.jpg",
+    "static/media/EPISODE9.faea297b.jpg": "./static/media/EPISODE9.faea297b.jpg",
+    "static/media/EPISODES.f84683af.png": "./static/media/EPISODES.f84683af.png",
+    "static/media/GAME.d8ccfdbe.png": "./static/media/GAME.d8ccfdbe.png",
+    "static/media/HERO.118fc774.jpg": "./static/media/HERO.118fc774.jpg",
+    "static/media/SQUID.5c7312e5.png": "./static/media/SQUID.5c7312e5.png",
+    "static/media/VIDEO1.355f656c.jpg": "./static/media/VIDEO1.355f656c.jpg",
+    "static/media/VIDEO2.8a5f01c9.jpg": "./static/media/VIDEO2.8a5f01c9.jpg",
+    "static/media/VIDEOS.c7c960ff.png": "./static/media/VIDEOS.c7c960ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82281d8a.js",
+    "static/js/2.881a088e.chunk.js",
+    "static/css/main.4368ddd6.chunk.css",
+    "static/js/main.d124fb57.chunk.js"
+  ]
+}
